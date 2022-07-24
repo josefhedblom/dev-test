@@ -1,2 +1,1 @@
-# dev-test
-Repo to test server
+Simple setup to test server.
